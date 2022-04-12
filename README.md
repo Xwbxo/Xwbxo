@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jinja!
 ![](https://visitor-badge.laobi.icu/badge?page_id=Jinja-Ninja.Jinja-Ninja)
-[![Github](https://img.shields.io/github/followers/Jinja-Ninja?label=Follow&style=social)](https://github.com/Jinja-Ninja)
+[![Github](https://img.shields.io/github/followers/Jinja-Ninja?label=Follow&style=social)](https://github.com/Xwbxo)
 - 👀 I’m interested in programming and cyber security.
 - 🌱 I’m fluent in Python and I'm currently learning Java, C, C++, and C# and Assembly (for reverse engineering :D).
 - ⚡ Fun fact(s): I love cardistry and Lo-Fi music.
