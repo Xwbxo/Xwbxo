@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Xwbxo.Xwbxo)
 [![Github](https://img.shields.io/github/followers/Xwbxo?label=Follow&style=social)](https://github.com/Xwbxo)
 - 👀 I’m interested in programming and cyber security.
-- 🌱 I’m fluent in Python and I'm currently learning Java, C, C++, and C# and Assembly (for reverse engineering :D).
+- 🌱 I’m fluent in Python and I'm currently learning Java, C, C++, C# and Assembly (for reverse engineering :D).
 - ⚡ Fun fact(s): I love cardistry and Lo-Fi music.
 
 ## ✉️ You can reach me on:
