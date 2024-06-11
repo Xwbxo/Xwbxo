@@ -15,7 +15,7 @@
   </a>
  </li>
  <li>
-  <a href="https://502-bad-gateway.host/s/70qzdqzscq">
+  <a href="https://tailwind.love/p/piuvdg4yy8">
    Session
   </a>
  </li>
